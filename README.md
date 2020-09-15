@@ -1,8 +1,7 @@
 
 <p align="center">
-  <a href="#"><img title="succeed" src="https://img.shields.io/badge/deobfuscating-succeed-green?colorB=%23017e40&style=for-the-badge"></a>
-  </p>
-  <br/><br/>
+<a href="https://github.com/monirsarkar"><img title="monirsarkar" src="https://github-readme-stats.vercel.app/api?username=monirsarkar&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
 
 <p align="center">
 <a href="#"><img title="succeed" src="https://img.shields.io/badge/deobfuscating-succeed-green?colorB=%23017e40&style=for-the-badge"></a>
